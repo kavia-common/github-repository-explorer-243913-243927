@@ -1,0 +1,4 @@
+{
+    "command": "npm run test",
+    "working_directory": "/home/kavia/workspace/code-generation/github-repository-explorer-243913-243927/github_repo_listing_frontend"
+}
